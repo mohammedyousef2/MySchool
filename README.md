@@ -6,7 +6,6 @@ Final Project MySchool
 <ul>
     <li>addStudent</li>
     <li>addTeacher</li>
-    <li>Skill Icons</li>
     <li>printAllStudent</li>
     <li>printAllTeachers</li>
     <li>findStudentByName</li>
